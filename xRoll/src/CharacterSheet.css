@@ -1,0 +1,20 @@
+.cSheet{
+    height: 80vh;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.cSheet{
+
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: #001122;
+    color:white;
+    border-radius: 20px;
+    padding: 30px;
+    box-shadow: 10px 10px 62px 0px rgba(0,0,0,0.25);
+    -webkit-box-shadow: 10px 10px 62px 0px rgba(0,0,0,0.25);
+    -moz-box-shadow: 10px 10px 62px 0px rgba(0,0,0,0.25);
+}
